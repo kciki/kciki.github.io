@@ -4,23 +4,23 @@
 baseurl:
 # url: http://mazhuang.org
 date_format: "ordinal"
-title: 松濤
-subtitle: "The Brightest Star In The Night Sky"
-description: "松涛的个人博客"
-keywords: 闵松涛,松涛,SongTao,minsongtao,songtao,PHP,技术博客,linux,闵松涛的博客
+title: 熊奇
+subtitle: "这个世界需要英雄"
+description: "熊奇的个人博客"
+keywords: 熊奇,Android,技术博客,熊奇的博客
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: MinSongTao
+author: XiongQi
 organization: zjmedia, Inc.
 organization_url: https://www.zjmedia.com
 location: Beijing, China
-email: 936908163@qq.com
+email: 1125067724@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,12 +77,12 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: songtaohome/songtaohome.github.io
+repository: kciki/kciki.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: songtaohome
+github_username: kciki
 # douban_username: freedim
 # facebook_username: mzlogin
 # weibo_username: mzlogin
@@ -96,7 +96,7 @@ github_username: songtaohome
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-disqus_username: minsongtao
+disqus_username: kciki
 
 # ---------------- #
 #    Analytics     #
@@ -107,6 +107,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [PHP, C, Python, Design Patterns, JavaScrip, Jquery, Linux, CenOS]
+skill_software_keywords: [Java, Python, Design Patterns]
 skill_mobile_app_keywords: [Android, Reverse Engineering]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
