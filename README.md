@@ -1,6 +1,6 @@
-# 松涛博客
+# 熊奇的博客
 
-我的个人博客：<https://songtaohome.github.io>，欢迎 Star 和 Fork。
+我的个人博客：<https://kciki.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -15,7 +15,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://www.minsongtao.com)**
+**[在线预览 &rarr;](http://www.xqsqq.cn)**
 
 
 ## Fork 指南
